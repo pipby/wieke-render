@@ -1,7 +1,7 @@
 databases:
   - name: wieke
     databaseName: wieke
-    user: pipby
+    user: wieke_user
     plan: free
 
 services:
