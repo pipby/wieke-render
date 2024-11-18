@@ -18,7 +18,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 # Use Tailwind CSS with Rails [https://github.com/rails/tailwindcss-rails]
 gem "tailwindcss-rails"
-gem 'slim-rails'
+gem "slim-rails"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
